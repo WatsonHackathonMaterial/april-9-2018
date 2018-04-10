@@ -38,11 +38,11 @@ Agenda of Watson Developer Cloud API workshop
 ## Hands-on Labs
 
 * 6:45 p.m. - 8:00 p.m. 
- * 1. Sign up for Bluemix here: https://ibm.biz/BdZPsZ
- * 2. Node Red Set Up (Pre-tutorial): https://medium.com/@helenflam/setting-up-node-red-7bd398e2ffde
- * 3. Natural Language Understanding Tutorial 1: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
+  * 1. Sign up for Bluemix here: https://ibm.biz/BdZPsZ
+  * 2. Node Red Set Up (Pre-tutorial): https://medium.com/@helenflam/setting-up-node-red-7bd398e2ffde
+  * 3. Natural Language Understanding Tutorial 1: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
   
- * 4. Complete  Watson Visual Recognition Node Red labs. 
+* 4. Complete  Watson Visual Recognition Node Red labs. 
 
 (i) Visual Recognition lab: https://github.com/djccarew/node-red-labs/tree/master/basic_examples/visual_recognition
 
