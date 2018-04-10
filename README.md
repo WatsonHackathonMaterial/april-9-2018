@@ -3,7 +3,7 @@
 
 Agenda of Watson Developer Cloud API workshop
   
-## Day Two: Intro to Watson Developer Cloud APIs 
+## Intro to Watson Developer Cloud APIs 
 
 * 6:00 p.m. - 6:45 p.m. 
  * Introduction to Watson Developer Cloud APIs 
