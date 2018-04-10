@@ -42,13 +42,11 @@ Agenda of Watson Developer Cloud API workshop
   * 2. Node Red Set Up (Pre-tutorial): https://medium.com/@helenflam/setting-up-node-red-7bd398e2ffde
   * 3. Natural Language Understanding Tutorial 1: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
   
-* 4. Complete  Watson Visual Recognition Node Red labs. 
+  * 4. Complete  Watson Visual Recognition Tutorial 2: https://github.com/djccarew/node-red-labs/tree/master/basic_examples/visual_recognition
 
-(i) Visual Recognition lab: https://github.com/djccarew/node-red-labs/tree/master/basic_examples/visual_recognition
+  * Instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
 
-Instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
-
-## IMPORTANT USEFUL LINKS 
+## Additional Useful Links
 
 ## Tutorials and SDKs
 * Tutorials and Watson SDKs on Github: https://github.com/watson-developer-cloud
