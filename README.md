@@ -38,7 +38,7 @@ Agenda of Watson Developer Cloud API workshop
 ## Hands-on Labs
 
 * 6:45 p.m. - 8:00 p.m. 
-  * 1. Sign up for Bluemix here: https://ibm.biz/BdZPsZ
+  * 1. Sign up for Bluemix here: https://ibm.biz/BdZkyE
   * 2. Node Red Set Up (Pre-tutorial): https://medium.com/@helenflam/setting-up-node-red-7bd398e2ffde
   * 3. Natural Language Understanding Tutorial 1: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
   
@@ -48,11 +48,16 @@ Agenda of Watson Developer Cloud API workshop
 
 ## Additional Useful Links
 
+## IBM Call for Code 2018 
+
+* https://developer.ibm.com/callforcode/
+
 ## Tutorials and SDKs
 * Tutorials and Watson SDKs on Github: https://github.com/watson-developer-cloud
 * Watson Developer Cloud SDKs: https://www.ibm.com/watson/developer-resources/
 * Tutorials for Watson Node Red labs (perfect for hackathons and quick prototyping): https://github.com/watson-developer-cloud/node-red-labs
 * Tutorials on Watson on Medium Blog: https://medium.com/ibm-watson-developer-cloud
+* Tutorials with IBM Wolfpack: https://github.com/team-wolfpack/Wolfpack-Technical-Event-Content
 * Additional Tutorials on Watson: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017/blob/master/README.md
 
 ## Code Patterns and recipes
